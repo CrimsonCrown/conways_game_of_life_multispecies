@@ -1,6 +1,6 @@
-from conways_game_of_life.server import server
-from conways_game_of_life.model import ConwaysGameOfLife
-from conways_game_of_life.model import batch_run
+from conways_game_of_life_multispecies.server import server
+from conways_game_of_life_multispecies.model import ConwaysGameOfLife
+from conways_game_of_life_multispecies.model import batch_run
 import pandas as pd
 from datetime import datetime
 
